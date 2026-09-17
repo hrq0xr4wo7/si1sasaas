@@ -1,0 +1,4509 @@
+{
+  "catalog": {
+    "name": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+    "owner": "施琅",
+    "generated": "2026-09-18 02:36:59"
+  },
+  "endpoints": [
+    {
+      "name": "国家大剧院原创话剧《背包客》首演",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/905459.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "Altman表示OpenAI今年不会IPO 需要推进安全相关工作",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/839954.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "为构建人类命运共同体贡献“大金砖”力量",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/314107.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "世界最大盐穴压缩空气储能项目机组启动",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/598163.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026“寻找美丽中华”全国乡村定向赛惠农站开赛",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/546886.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "光子产业生态大会举行 专家建言技术跨越从实验室到生产线",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/776045.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南海热带低压生成 海南启动防汛防风四级应急响应",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/945302.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/139531.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "俞敏洪：行走黑土地，于游学中读懂北国山河",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/857649.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026体育文化全国行走进贵州遵义 郭伟阳与师生面对面",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/705761.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/599995.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "一波未平一波又起，星宇股份实在是“错得离谱”",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/905104.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "粤东城际铁路建设获新突破",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/848722.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国建筑国际遭执行董事孔祥兆减持9万股 每股作价8.54港元",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/450238.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南北共链“芯”动沈阳 第二届北方芯谷生态伙伴大会启幕",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/698537.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗消息人士透露 伊朗和阿曼已就霍尔木兹海峡进出新路线的细节达成一致",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/464959.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼爪哇海附近发生6.2级左右地震",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/072274.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/658302.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中央组织部会同有关部委修订印发“5个办法” 进一步加强行业事业单位领导人员管理",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/479589.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "胡塞武装称沙特对也门发动129次空袭",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/913664.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/041350.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026浦江创新论坛：上海“明珠星座计划”正式启动",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/312886.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "上半年基金代销百强榜单出炉 券商占56个席位，银行阵营有25家",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/612218.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中俄垂钓大赛“以渔会友”促进文体交流",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/276384.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美网综合：莱巴金娜女单夺冠 中国选手孙心然获青少年女单冠军",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/849941.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "《中国区域科技创新评价报告2026》发布 上海综合第一",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/587989.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "以跤会友促交融 200余名搏克健儿齐聚“神舟家园”",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/532954.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "古香有新职 吉林传统香艺职业化传承启程",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/029524.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "世茂集团前8个月累计合约销售总额约97.21亿元",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/506375.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼一艘载有243人的客轮失联，此前曾报告航行途中遭遇恶劣天气",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/426638.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "异物卡喉、心搏骤停如何急救？这些要点请牢记",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/822095.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“光”的背后 新凯来万里眼们正在改写产业链",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/746987.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "据美国商品期货交易委员会（CFTC） 截至2026年9月8日当周 股票基金经理削减标普500 CME净多头头寸19,683份合约",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/087880.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊拉克调查袭击沙特事件并解职相关指挥官",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/957643.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "海南强降雨致岛内部分市县道路交通管制、学校停课",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/805747.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "食用小苏打商品报价动态（2026-09-13）",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/622657.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "新思想引领新征程丨大力弘扬教育家精神 书写教育强国时代新篇",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/396991.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/697757.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/406385.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "云顶新耀获董事会主席吴以芳增持2万股 每股作价约28.71港元",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/962179.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "国务院国资委：统筹用好国内国际两个市场 优化海外投资布局",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/233640.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华泰证券：美国CPI超预期 加息成为“必选项”",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/888066.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南A东盟谷OPC社区启航 打造面向东盟人工智能OPC创业高地",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/002722.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广州依托恐龙前沿科研成果激活全民科学教育新动能",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/408590.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "黄山晴日风光旖旎 东大门通道持续走热",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/851364.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国银行启动“一网三融”算力金融生态共建行动",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/037704.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“不求毫无生气的一致，但求活生生的团结”，泰戈尔曾三次访华，对当下有何启示？",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/095100.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "工业和信息化部总工程师钟志红：加快算力标准体系建设指南编制",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/582068.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“铁建起重5000”大型起重船离港赴远洋施工",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/506267.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "光博会热度传导到A股 机构密集调研三大龙头",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/540228.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华储网：9月15日中央储备冻猪肉轮换出库挂牌国产冻猪肉15500吨",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/791400.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "业绩暴增+机构扎堆调研，4只科技股上榜",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/154219.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "央企上市公司际华集团，通过融资性贸易等虚增营收96.6亿，3任董事长、3任总经理等13名相关责任人员被罚！",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/170255.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "厄瓜多尔发生交通事故 已致1死11伤",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/395054.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广东机器人“军团”半年考：三条变化脉络清晰可见",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/346091.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/767149.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全球航标业者浙江温州感触古今“中外交流”",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/813010.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "恺英网络间接参股娱美德",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/804107.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/427406.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "视频|星宇股份年报数据离谱失真 2024年报财务外包费用2.44万亿 超营收183倍",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/212300.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "麦芽糊精商品报价动态（2026-09-13）",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/935637.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "（长征胜利90周年）红军长征粤北纪念馆焕新迎客 红色热土吸引港澳台侨参观者",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/555704.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“魔豆”长成大树 促更多困境女性从“救助”到“赋能”",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/804980.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "云南文山：各族民众“下山”启新程 同心共筑新家园",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/400026.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "一致行动人“散伙”后仍现同步操作，超级牛散资本谜题何解？",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/970783.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/733623.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "花旗集团预计美联储将在9月加息 并在2027年中期之前降息",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/791349.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年重庆市全国科普月主场活动举行",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/833537.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国农业部表示 9月美国2026/2027年度大豆产量预期为45.35亿蒲式耳",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/283800.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "四川成都：民众沉浸式体验天文艺术展",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/684751.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美股三大指数集体收涨 戴尔科技大涨11%",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/280000.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/086720.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "今年前8个月 深圳对其他金砖成员国进出口同比增长11.5%",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/355271.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "印尼客轮倾覆已致6人遇难 130人失踪",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/291792.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国算力基础设施与人工智能服务能力加快走向东盟",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/585671.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "两只PCB概念股公告澄清涉英伟达传闻|盘后公告集锦",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/877293.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "见证历史！首家2万亿代销巨头诞生",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/369108.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国内地单跨跨径最大的双层钢桁梁桥实现合龙",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/461774.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美股反弹推动美国上季度家庭净资产大增",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/441775.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "周末利好来了！事关万亿赛道！我国词元需求呈现爆发式增长",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/241126.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "E法同行 兴辽治宁｜重访“鞍钢宪法”故地 探寻工业摇篮里的法治密码",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/158351.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国算力平台实现全国一体化算力统筹监测",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/841877.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "688432，重大资产重组！明日复牌",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/635786.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美加关税战再度升级双方互征报复性关税",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/929673.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大据报寻求成为欧盟“联系成员”，拟推动关键领域深度整合",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/343357.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "AI赋能新赛道 激活产业新动能",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/288404.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广西民众扬帆逐浪 千人横渡融江",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/298664.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/530633.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "索要数百克黄金！打假网红“铁头”被判8年，宣判现场有人叫嚣“不服”，曾对商户放言“你是我的金山银山”",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/283309.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第27个“世界急救日”：上海关注新就业群体 望打造流动防线",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/019375.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "金秋首趟西安至沈阳旅游专列开行",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/129399.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "今年上半年广州边检总站所辖口岸入境外国人超191万人次",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/850640.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "陕西：300余名骑手巡游嵯峨山 机车音乐嘉年华促农文旅深度融合",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/072378.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "多国官员呼吁推动构建全球旅游安全治理新格局",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/285575.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "联合国就也门问题举行紧急会议 中方呼吁尽快实现停火",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/978430.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "600929“急打补丁”，重组标的公司董事被查",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/244689.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "继续停牌！新华传媒推进收购界面财联社控股权",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/558412.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "科学健身融入大众传播：全民增肌操亮相《披荆斩棘2026》",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/812785.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "法国2026年经济增长预期下调至0.5%",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/126994.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "太乙圣莲欲“复活”哪吒汽车",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/019629.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全国约2000名“勇士”成都挑战2026斯巴达勇士赛",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/398326.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "浩瀚深度：股东雷振明拟减持不超1%股份",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/760964.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "台湾青年媒体人感知重庆魅力共话“交流”",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/483372.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "宁夏兴庆“零重力飞机工业杯”汽车越野场地赛鸣枪开赛",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/774362.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "无水氯化锂商品报价动态（2026-09-12）",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/631305.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "紧邻首批疏解高校 探访雄安新区学府城项目",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/083218.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "具身智能是否有泡沫？CEO们等待从“能做”到“能用” 年轻创业者又在押注什么",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/106296.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国华文教育“名师巡讲”南非开讲",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/677258.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "视频|舍得酒业换届在即 董事长落选 现任董事长未入董事候选人名单 谁将执掌新一届董事会？",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/852071.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/330951.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "六氯乙烷商品报价动态（2026-09-12）",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/016277.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国泾河博物馆落地泾源",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/701520.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "光模块全球第5，年入83亿，海信第6个IPO来了",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/535632.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“中国飞人”张树鹏翼装飞行世锦赛穿靶夺冠",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/505110.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "核查完成！7天6板大牛股，下周一复牌",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/403036.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "内地京剧名家赴港演出 《红鬃烈马》拉开香江京剧交流演出帷幕",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/606611.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "首个“太空算力关键技术与场景验证实验室”正式成立",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/442889.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "世界制造业大会之约：跨山越海，“槟”客来仪",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/341100.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "海外华文媒体新化行：在千年梯田感悟中国农耕文明",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/479568.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "欲冲击IPO！造船巨头启动上市辅导",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/624690.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "据报道 美国共和党议员敦促美国内政部长伯格姆采取行动应对汽油价格",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/171040.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "高文院士：中国科研体系应“四路并进”",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/798886.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "能源危机骤然升级！沙特关键输油管道遇袭后预防性关闭",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/492542.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“1+N+X”！私募业，监管规则密集落地！深度解读来了",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/458919.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "特朗普重申伊朗战事将在中期选举后结束",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/442691.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "AI是一场文明跃迁，大模型只是序幕，能源是终极约束",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/861902.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "据报道 Anthropic联合创始人兼首席执行官表示 必须放缓提升AI模型能力的速度",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/842687.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "《2026中国餐饮业年度报告》发布",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/187171.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "603258，上半年净利润亏损5877万元！4920万元收购标的盈利不足50万元",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/400014.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国桨板精英联赛（西安站）收官 助力水上运动西北内陆生根",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/881791.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "真“神话”！太乙圣莲“复活”哪吒汽车",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/640808.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/025091.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "案值巨大 美中情局前官员达成临时认罪协议",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/883780.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "漂白剂商品报价动态（2026-09-12）",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/650124.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "天地一体跨域智算网工程启动",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/048996.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "A股调整临近尾声？投资主线有哪些？十大券商策略来了",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/863316.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "量子科技的“冷热之辨”",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/549701.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "熵旋芯智雷坤：MRAM存算一体芯片可使AI推理Token成本降低约10倍",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/852749.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "恒指期货夜盘收跌0.05%",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/437694.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "8月汽车销量同比降5.1%新能源及出口大增",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/346242.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "纽约尾盘 现货黄金涨0.68%",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/845693.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "贵州梵净山：秋景如画卷",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/892533.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "斯诺克英格兰公开赛：丁俊晖止步四强",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/103120.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "摩根大通改弦更张 现预计美联储9月和12月加息",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/317613.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "延安红色半程马拉松中秋小长假开跑 红色文创及景区惠民政策发布",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/414177.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "毕马威报告：县域是服务消费扩容最具潜力的增量空间",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/567663.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广西南宁青秀山凤凰岭如意步道改建完成 新增城市登高观景点",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/045565.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "斜跃智能完成数亿元天使+轮融资",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/925206.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "明星去世后，代言合同还算数吗？",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/507874.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/100881.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "三家具身智能头部企业被同行举报？涉及企业回应",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/767625.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国高端海工装备扬帆出海 服务共建“一带一路”国家能源开发",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/041262.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "兴蓉环境：董事会换届选举工作尚在筹备中 将适当延期",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/716453.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/153972.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "日本内阁宣传室相关预算增至10倍遭质疑",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/916663.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "企业出海不能“裸奔” 法律服务智能体亮相服贸会",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/715336.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/839965.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全球基金看淡印度股市 部分机构将持仓降至零",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/775443.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/971140.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "旭日企业获董事长杨振鑫增持4万股 每股作价1.3港元",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/209852.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "VinFast创始人交棒其子 推进业务扩张",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/196985.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/049714.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/536312.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "第十八届湖南茶博会推动两岸茶产业资源互通",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/575350.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中金：通胀粘性支持加息 警惕鹰派信号",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/655051.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "当物流装上“AI引擎” 如何跑出新速度？",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/124626.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加拿大总理卡尼提议，推动加拿大成为欧盟 “联系成员国”",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/610839.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特能源部表示 利雅得和麦地那地区的东西输油管道在周四遭数次袭击后已被暂时关闭",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/466937.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "杭州宠物大佬收编20亿老牌电商",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/654655.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "阿斯利康乳腺癌药物Etcamah三期临床未达主要终点",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/930788.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "视频|国泰基金某指基拟发行 2基金经理共12产品回报亏逾两成",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/835687.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "特稿｜携手开启金砖合作新的“金色十年”——国际社会对中国明年接任金砖主席国满怀期待",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/489164.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "甲骨文重组计划成本上限增至28亿美元 将进一步推进AI应用",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/213161.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "瓦努阿图一渡轮失事已致1人死亡30余人失踪",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/693434.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "话剧《寻味》在北京上演 两岸戏剧人联合演绎寻亲寻根故事",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/086824.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/484560.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "航行警告：渤海海峡黄海北部执行军事任务 禁止驶入",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/064232.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国家庭净资产二季度增加12.8万亿美元 创历史新高",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/202526.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "9月12日热门中概股多数上涨，台积电涨1.22%，慧荣科技涨7.25%",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/869046.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "药膳竞技促“桂药膳”出圈 广西推动药食同源产业提质扩能",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/835903.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英国朴茨茅斯现两阵营对峙示威",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/658699.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "大和：海底捞目标价下调至11.3港元 重申“跑赢大市”评级",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/289629.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "九洲集团：公司及控股子公司无逾期担保、无涉及诉讼的担保、也无因担保被判决败诉而应承担损失的情形",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/129248.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "算力“提速”背后 精密测试守住毫厘关口",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/040882.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "赣台会二十届 台商深耕江西",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/255816.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/040480.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/247362.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "纳斯达克中国金龙指数收涨0.4%",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/890984.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "据俄罗斯统计局 俄罗斯8月CPI同比上涨6.33%",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/571358.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国田协10公里精英赛首落陕西永寿 文体旅融合激活县域发展动能",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/671274.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "年内多个智算项目规模翻倍 算力厂商最关心“电能否跟得上节奏”",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/507623.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "宁夏兴庆：沉浸式民族团结活动点亮商圈烟火同心景",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/254735.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "中国银行启动“一网三融”算力金融生态共建行动 为算力产业链提供不少于3000亿元综合金融支持",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/260777.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "加州柴油价格创历史新高",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/632262.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“两园一河”京西漂流节联动三区",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/709732.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "鸿路钢构：签订3.75亿元钢结构材料锁价合作协议",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/989515.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "菜百股份：公司将于9月21日召开2026年半年度业绩说明会",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/798798.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "星测未来完成数亿元融资 全栈布局太空算力Token运营服务",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/492121.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "越南VinFast 8月电动车交付量达2.02万辆 环比增长12%",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/585111.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/152644.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "华虹宏力发行1.91亿股代价股份",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/020976.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/174292.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/298837.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "胡塞武装称夺取也门西部约5400平方公里土地",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/620264.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/217614.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "全精炼石蜡商品报价动态（2026-09-12）",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/325650.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "雷电微力：股东陈发树拟减持不超3%股份",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/184687.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "丁俊晖止步2026斯诺克英格兰公开赛四强",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/517141.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广西隆安优品亮相深圳华强北 产销对接拓展湾区市场",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/891389.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美联储隔夜逆回购协议（RRP）周五使用规模为52.55亿美元（交易对手3家）",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/072468.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年曲棍球青年亚洲杯赛：印度队摘得男女组双冠",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/531714.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "突传利空！刚刚，集体下跌！事关AI",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/918777.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/400937.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "近一个月逾千家上市公司获机构调研",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/732477.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "闽超联赛：福州队主场1比2不敌厦门队",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/166210.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沙特东西输油管道在遭多次袭击后被预防性关闭",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/348648.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "金安国纪：网上传播关于公司产品纳入英伟达、华为供应链体系认证等相关信息均为不实信息",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/356439.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "南部六省（区）生态环境执法协作座谈会在粤举行",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/305301.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "欧洲央行加息25基点符合预期，预计10月或再加息",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/073698.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "以“信”为主题的两岸少儿美术作品在台北展出",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/024336.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026 Inclusion·外滩大会闭幕 50余项技术、产品和应用首发首展",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/676382.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "小七龄童在故乡浙江绍兴离世 享年84岁",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/760966.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "乌克兰军方称袭击了俄罗斯克拉斯诺达尔地区的一座炼油厂",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/551305.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "创远信科重组过会 北交所公司并购步入常态化",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/073867.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "政策与市场共振 电力板块投资机遇凸显",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/780982.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "沐曦股份下周解禁68亿，机构大幅浮盈，会否重演摩尔线程解禁日表现？",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/837558.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/526441.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "奥佳华：汽车智能座舱按摩舒适系统研发项目已进入专利申请、样机测试、车型适配阶段",
+      "method": "POST",
+      "url": "www.share.bjhxkd.cn/Article/details/917378.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "“桂BA”总决赛在桂林落幕",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/180767.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/692452.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "阿斯利康的Etcamah在SERENA-4试验中未达到主要无进展生存期终点",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/209164.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "资本大佬陈发树要减持，对应市值超2亿元",
+      "method": "GET",
+      "url": "www.bjhxkd.cn/Article/details/964150.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/545224.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/744791.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026年全国露营大会暨第三届中国公路自行车公开赛（湖北随县站）收官",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/531800.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "赣台会二十届：一纸邀约 双向奔赴",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/572527.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "国家超算互联网用户突破170万",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/778007.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "这些年，习近平种下的友谊之树",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/645455.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "广州：“第12届欧亚MEDIATIONS数字艺术双年展”吸引参观者",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/101980.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "（乡村行·看振兴）泥土里的“乡愁课堂”",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/510516.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "英国海上贸易行动办公室：一艘船只在霍尔木兹海峡遇袭",
+      "method": "POST",
+      "url": "bjhxkd.cn/Article/details/026947.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "连续四年财务造假、一日收两份“预罚单”，*ST卓然或遭强制退市",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/513318.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "女篮世界杯：法国队、美国队晋级决赛",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/167477.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "2026北京国际山地徒步大会在门头沟启幕 近9000名中外选手参与",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/563517.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "WCLC大会开幕！一文搞懂创新药临床指标",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/963878.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉被查",
+      "method": "GET",
+      "url": "bjhxkd.cn/Article/details/922804.shtml",
+      "auth": "sign",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+      "method": "POST",
+      "url": "www.bjhxkd.cn/Article/details/081437.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "视频|因经纪人合规管理不到位等问题，浙商证券、公司高管等一同被监管约谈",
+      "method": "GET",
+      "url": "www.share.bjhxkd.cn/Article/details/811240.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "机构调研热门股追踪：176家机构调研安集科技 500亿半导体材料龙头“出海”受关注",
+      "method": "POST",
+      "url": "m.share.bjhxkd.cn/Article/details/971078.shtml",
+      "auth": "token",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "多图读懂金砖力量：中国智慧助推开放包容的合作新机遇",
+      "method": "GET",
+      "url": "m.share.bjhxkd.cn/Article/details/769938.shtml",
+      "auth": "none",
+      "params": [
+        {
+          "key": "page",
+          "type": "int",
+          "required": false
+        },
+        {
+          "key": "size",
+          "type": "int",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
